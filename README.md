@@ -14,7 +14,7 @@ https://github.com/UnblockNeteaseMusic/server/discussions/426
 SIGN_KEY=路径/server.key
 SIGN_CERT=路径/server.crt
 
-这是我用的程序,你们要用的话应该需要下载v0.28.0覆盖到里面.
+这是我用的程序,你们要用的话应该需要下载v0.28.0打包好的exe覆盖到里面.
 https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic
 <img width="650" height="468" alt="image" src="https://github.com/user-attachments/assets/01299b2b-da59-43f8-bc71-6464d4d81a30" />
 <img width="1323" height="940" alt="image" src="https://github.com/user-attachments/assets/c81784d0-ff95-421a-846b-357219583646" />
