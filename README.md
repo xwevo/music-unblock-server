@@ -1,3 +1,5 @@
+UnblockNeteaseMusic证书过期自签方法
+
 本人纯小白0编程基础,我尽量说明白点.
 
 generate-cert.sh和renew-cert.sh里可以改自签时间,有4个365我都改成3650了,server.crt自签后是10年,ca.crt还是5年,我是WIN10,你们啥系统签名时间太长了能不能用我也不知道,别问我.
